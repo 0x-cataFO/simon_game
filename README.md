@@ -49,23 +49,23 @@ A classic Simon memory game built for the web! Test your memory and see how long
 ---
 
 ## 🙌 Credits
-  Built by __loper_ as a fun web development project.
-  Inspired by the classic Simon electronic game.
+   Built by __loper_ as a fun web development project.
+   Inspired by the classic Simon electronic game.
 
 ---
 
 ## 🤝 Contributions
-  Want to improve the game or add new features? Contributions are welcome! Feel free to submit a pull request.
+   Want to improve the game or add new features? Contributions are welcome! Feel free to submit a pull request.
 
 
-simon_game/
-├── index.html       ← Main webpage
-├── styles.css       ← Game styling
-├── script.js        ← Game logic
-└── sounds/          ← Audio files for button tones
-    ├── green.mp3
-    ├── red.mp3
-    ├── yellow.mp3
-    └── blue.mp3
-
----
+   simon_game/
+   ├── index.html       ← Main webpage
+   ├── styles.css       ← Game styling
+   ├── script.js        ← Game logic
+   └── sounds/          ← Audio files for button tones
+       ├── green.mp3
+       ├── red.mp3
+       ├── yellow.mp3
+       └── blue.mp3
+   
+   ---
